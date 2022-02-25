@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dragonn\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dragonn\\.nuget\\packages"
+    ]
+  }
+}
